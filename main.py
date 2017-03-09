@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env python
 from bf import bf
 import argparse
 
